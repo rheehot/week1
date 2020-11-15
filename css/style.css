@@ -146,9 +146,9 @@ a{text-decoration: none;}
     text-align: center;
 }
 .side1 figcaption {width: 530px; height: 384px;}
-.side1 .front figcaption h1 {text-align: center;font-size: 40px; margin-top: 5px;}
-.side1 .back figcaption #age{text-align: center; font-size: 40px; margin-top: 5px;}
-.side1 .back figcaption h1 {text-align: center; font-size: 45px; margin-top: 20%;}
+.side1 .front figcaption h1 {text-align: center;font-size: 35px; margin-top: 5px;}
+.side1 .back figcaption #age{text-align: center; font-size: 35px; margin-top: 5px;}
+.side1 .back figcaption h1 {text-align: center; font-size: 60px; margin-top: 20%;}
 .side1 figcaption {
     color: #fff; 
     font-size: 40px; font-family: 'Abel';  font-weight: bold; 
@@ -187,9 +187,9 @@ a{text-decoration: none;}
     text-align: center;
 }
 .side2 figcaption {width: 515px; height: 384px;}
-.side2 .front figcaption h1 {text-align: center;font-size: 40px; margin-top: 5px;}
-.side2 .back figcaption #ads{text-align: center; font-size: 40px; margin-top: 5px;}
-.side2 .back figcaption h1 {text-align: center; font-size: 45px; margin-top: 20%;}
+.side2 .front figcaption h1 {text-align: center;font-size: 35px; margin-top: 5px;}
+.side2 .back figcaption #ads{text-align: center; font-size: 35px; margin-top: 5px;}
+.side2 .back figcaption h1 {text-align: center; font-size: 60px; margin-top: 20%;}
 .side2 figcaption {
     color: #fff; 
     font-size: 40px; font-family: 'Abel';  font-weight: bold; 
@@ -230,9 +230,9 @@ a{text-decoration: none;}
     text-align: center;
 }
 .side3 figcaption {width: 510px; height: 384px;}
-.side3 .front figcaption h1 {text-align: center;font-size: 40px; margin-top: 5px;}
-.side3 .back figcaption #skill{text-align: center; font-size: 40px; margin-top: 5px;}
-.side3 .back figcaption h1 {text-align: center; font-size: 45px; margin-top: 20%;}
+.side3 .front figcaption h1 {text-align: center;font-size: 35px; margin-top: 5px;}
+.side3 .back figcaption #skill{text-align: center; font-size: 35px; margin-top: 5px;}
+.side3 .back figcaption h1 {text-align: center; font-size: 60px; margin-top: 20%;}
 .side3 figcaption {
     color: #fff; 
     font-size: 40px; font-family: 'Abel';  font-weight: bold; 
